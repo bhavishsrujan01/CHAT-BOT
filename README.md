@@ -1,7 +1,7 @@
 
 ## 🧠  Generative AI Chatbot using Groq AI
 
-this  is a full-stack **Generative AI Chatbot Application** built with **React + Tailwind CSS** on the frontend and **FastAPI + Uvicorn** on the backend.
+this  is a full-stack **Generative AI Chatbot Application** built with **React + vite** on the frontend and **FastAPI + Uvicorn** on the backend.
 It leverages **Groq AI** for intelligent conversational responses, combining speed, accuracy, and scalability — a complete Gen-AI powered chat experience.
 
 ### 🚀 Tech Stack
