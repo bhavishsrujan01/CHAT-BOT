@@ -22,8 +22,3 @@ It leverages **Groq AI** for intelligent conversational responses, combining spe
 ### 🧩 Use Case
 
 An ideal template or starting point for **AI-powered web applications**, **chat assistants**, or **Gen-AI integrations** in production environments.
-
-### ⚙️ Deployment
-
-Runs seamlessly with `uvicorn` in development or production (via Docker, Railway, or Render).
-
