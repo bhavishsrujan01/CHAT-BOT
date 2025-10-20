@@ -1,6 +1,3 @@
-Here’s a clean, professional **GitHub project description** you can use 👇
-
----
 
 ## 🧠  Generative AI Chatbot using Groq AI
 
