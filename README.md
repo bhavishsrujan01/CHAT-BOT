@@ -27,6 +27,3 @@ An ideal template or starting point for **AI-powered web applications**, **chat 
 
 Runs seamlessly with `uvicorn` in development or production (via Docker, Railway, or Render).
 
----
-
-Would you like me to make it sound **more professional (for portfolio)** or **more casual (for open-source community style)**?
