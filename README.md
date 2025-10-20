@@ -6,7 +6,7 @@ It leverages **Groq AI** for intelligent conversational responses, combining spe
 
 ### 🚀 Tech Stack
 
-* **Frontend:** React, Tailwind CSS
+* **Frontend:** React + vite 
 * **Backend:** FastAPI, Uvicorn, Python
 * **AI Model:** Groq AI (LLM integration)
 * **Additional Tools:** Axios, Pydantic, AsyncIO, and other Python libraries
